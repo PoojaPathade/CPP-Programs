@@ -12,4 +12,5 @@ int main()
         cout<<"\n"<<iCnt ;
         iCnt++;
    } 
+   return 0;
 }
